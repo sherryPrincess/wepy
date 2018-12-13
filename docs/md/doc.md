@@ -15,7 +15,7 @@ npm install wepy-cli -g
 **在开发目录中生成Demo开发项目, 1.7.0之后版本请移步[wepy-cli文档](./doc.cli.md)**
 
 ```bash
-wepy new myproject
+wepy init standard myproject
 # 1.7.0之后的版本使用 wepy init standard myproject 初始化项目，使用 wepy list 查看项目模板
 ```
 
